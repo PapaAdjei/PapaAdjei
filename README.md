@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things(stuff that peak my curiousity)
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on any project that might help build my experience and growth
-- 📫 How to reach me: LinkedIn- linkedin.com/in/kwadwo-lartey-6352761b9
+- 📫 How to reach me: LinkedIn[Link]linkedin.com/in/kwadwo-lartey-6352761b9
 
 <!---
 PapaAdjei/PapaAdjei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
